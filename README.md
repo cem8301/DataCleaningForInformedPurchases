@@ -5,7 +5,7 @@ People spend a large amount of time searching Craigslist for deals that best sui
 
 **Data Sets:**
 This project takes on two large sets of data:
-Fuel economy data: https://www.fueleconomy.gov/feg/download.shtml 
+Fuel economy data: https://www.fueleconomy.gov/feg/download.shtml, 
 Craigslist: https://newyork.craigslist.org/search/brk/cto 
  
 **Featured Technology:**
@@ -23,12 +23,12 @@ Data that is sourced from user input is rife- with irregularities. If data is mi
 The tool that I created can successfully search Craigslist for the vehicle that best matches their needs. This should decrease search time and make users feel more comfortable with their final decision It is also easy to see two like cars and compare the year, condition, and price. Since the data is user input and the code is not infallible it is not unlikely that errors will occur. More niche searches- like for vans may produce worse matches. Overall the code will produce useful user feedback and help view data trends. 
 
 **URLs for YouTube recordings:**
-2 minute: https://youtu.be/XTy6c-Z5twU 
+2 minute: https://youtu.be/XTy6c-Z5twU, 
 15 minute: https://youtu.be/CLf7mLvR4Hc
 
 **References:** 
 Zoran’s class notes, 
-Fuel economy data: https://www.fueleconomy.gov/feg/download.shtml 
-Craigslist: https://newyork.craigslist.org/search/brk/cto 
-Craigslist Facts: https://expandedramblings.com/index.php/craigslist-statistics/ 
+Fuel economy data: https://www.fueleconomy.gov/feg/download.shtml, 
+Craigslist: https://newyork.craigslist.org/search/brk/cto, 
+Craigslist Facts: https://expandedramblings.com/index.php/craigslist-statistics/, 
 Initial scrapy setup: https://python.gotrained.com/scrapy-tutorial-web-scraping-craigslist/ 
